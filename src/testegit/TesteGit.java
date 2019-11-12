@@ -18,6 +18,7 @@ public class TesteGit {
         System.out.println("teste V1");
         System.out.println("teste V4");
         System.out.println("teste V5");
+        System.out.println("teste V10");
     }
     
 }
