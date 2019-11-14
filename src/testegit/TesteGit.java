@@ -17,6 +17,8 @@ public class TesteGit {
     public static void main(String[] args) {
         System.out.println("teste V3");
         System.out.println("teste V4");
+        System.out.println("teste V1");
+        System.out.println("teste V2");
         System.out.println("teste V5");
         System.out.println("teste V6");
     }
